@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navneet Soni 
 - 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate with others who are like-minded people
+- 💞️ I’m looking to collaborate with other like-minded people
 - 📫 How to reach me @ navneet3560@gmail.com
 
 <!---
